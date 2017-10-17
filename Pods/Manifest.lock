@@ -1,0 +1,17 @@
+PODS:
+  - SDAutoLayout (2.2.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - SDAutoLayout
+  - YYKit
+
+SPEC CHECKSUMS:
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 2694acd2131dc4e7bd54b1002a03b2b6db7be93c
+
+COCOAPODS: 1.2.0
